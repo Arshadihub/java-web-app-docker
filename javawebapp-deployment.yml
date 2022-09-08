@@ -13,7 +13,7 @@ spec:
         name: javawebapp
     spec:
       containers:
-      - image: arshadcsinfo/java-app
+      - image: arshadcsinfo/javawebapp
         name: javawebapp
         ports:
         - name: javawebapp
